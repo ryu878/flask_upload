@@ -6,3 +6,7 @@ File uploader using Python Flask. Ongoing project.
 
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+## VPS for bots and scripts
+I prefer using DigitalOcean. 
+To get $200 in credit over 60 days use my ref link: https://m.do.co/c/3d7f6e57bc04
